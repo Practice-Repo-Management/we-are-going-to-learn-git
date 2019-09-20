@@ -1,3 +1,4 @@
 # we-are-going-to-learn-git
 
-Omg conflict time!
+this is going to be a conflict
+
